@@ -1,6 +1,6 @@
-# Landing Page - 
+# Landing Page - Adoção de animais
 
-Feira de Adoção de Cães e Gatos
+## Feira de Adoção de Cães e Gatos
 
 Descrição
 Landing page minimalista para promover um evento de adoção de cães e gatos. O objetivo é facilitar a divulgação da feira com foco em tipografia, contraste e informações objetivas sobre data, local e incentivo à adoção. Solução intuitiva para compartilhar em redes sociais ou imprimir.
