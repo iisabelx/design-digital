@@ -1,50 +1,71 @@
-# Landing Page - Adoção de animais
+# Feira de Adoção de Cães e Gatos - Landing Page
 
-## Feira de Adoção de Cães e Gatos
+Uma landing page responsiva, moderna e informativa para promover uma feira de adoção de cães e gatos. Desenvolvida com HTML e CSS, apresenta um design atrativo em tons de azul, com foco na clareza das informações, engajamento e facilidade de navegação.
 
-Descrição
-Landing page minimalista para promover um evento de adoção de cães e gatos. O objetivo é facilitar a divulgação da feira com foco em tipografia, contraste e informações objetivas sobre data, local e incentivo à adoção. Solução intuitiva para compartilhar em redes sociais ou imprimir.
+---
 
-Instruções de Instalação
-Tenha um navegador moderno instalado (Chrome, Firefox, Edge).
+## Descrição
 
-Faça o download ou clone este projeto:
+Este projeto fornece um site de página única para divulgação de evento de adoção de animais. A página traz:
 
-text
-git clone https://github.com/passatempoxd/Poster-Minimal.git
-Abra o arquivo:
+- Informações detalhadas sobre data, local e características do evento (pet friendly, acesso, vacinação).
+- Galeria visual com pets disponíveis para adoção.
+- Depoimentos reais de adotantes para inspirar confiança.
+- Seção de perguntas frequentes (FAQ).
+- Formulário de contato para dúvidas e mensagens.
+- Botões de chamada para ação (CTA) claros e convidativos.
 
-text
-design/poster.html
-no navegador.
+O design é responsivo para uso confortável em dispositivos móveis e desktops, utilizando uma paleta de tons de azul para transmitir tranquilidade e confiança.
 
-Edite o conteúdo de texto diretamente no HTML conforme o evento (título, descrição, data, local, chamada para ação).
+---
 
-Ajuste cores rapidamente em
+## Instalação
 
-text
-design/styles.css
-Uso
-Altere os dados principais no <header> do arquivo poster.html:
+Para executar o projeto localmente, siga estas etapas:
 
-Título: "Feira de Adoção de Cães e Gatos"
+1. Clone o repositório em sua máquina:
 
-Subtítulo, data e local conforme o evento.
+2. Abra o arquivo `index.html` em um navegador moderno (Chrome, Firefox, Edge).
+3. Para modificar estilos, edite o arquivo `index.html`.
+4. Substitua imagens e textos conforme necessário para personalizar o evento.
 
-Utilize as variáveis CSS para personalizar cor de destaque e texto.
+---
 
-Para exportar, tire uma captura de tela em alta resolução ou use "Imprimir > Salvar como PDF" com margens mínimas.
+## Uso
 
-Evite utilizar tons verdes para manter a identidade visual do projeto.
+- Edite o conteúdo das seções no arquivo `index.html` para atualizar informações do evento.
+- Alterações na paleta de cores e estilos ficam no `index.html`.
+- Adicione ou remova pets na galeria alterando as tags HTML correspondentes.
+- Utilize o formulário de contato para coletar dúvidas, que deve ser integrado ao backend conforme necessidade.
+- A landing page está pronta para publicação em qualquer servidor web ou serviço de hospedagem estática.
 
-Contribuindo
-Dê fork no repositório.
+---
 
-Crie uma nova branch (feat/sua-feature), faça commits claros.
+## Como contribuir
 
-Abra um Pull Request descrevendo sua contribuição e testes feitos.
+Quer contribuir? Siga os passos abaixo:
+1. Faça um fork do projeto.
+2. Crie uma branch com sua feature ou correção:
+3. Faça commits com mensagens claras e descritivas.
+4. Envie um Pull Request descrevendo suas alterações e o objetivo.
+5. Preserve a organização e simplicidade do código, além do design responsivo.
 
-Preserve hierarquia de títulos e contraste AA; mantenha a estética minimalista.
+---
 
-Licença
-MIT — Livre para uso pessoal, educacional ou comercial. Incluir aviso de copyright.
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos originais.
+
+---
+
+## Contato
+
+Para dúvidas, sugestões ou parcerias, utilize o formulário da landing page ou entre em contato pelo e-mail: contato@feiradeadocao.com
+
+---
+
+Feito para facilitar a adoção responsável e promover o bem-estar dos animais. Participe, divulgue e faça a diferença!
+
+
+1. Faça um fork do projeto.
+2. Crie uma branch com sua feature ou correção:
